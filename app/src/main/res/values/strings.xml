@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Absensi</string>
+    //array status absen yang akan ditampilkan pada spinner
+    <string-array name="status_absen">
+        <item>Pilih Status</item>
+        <item>Alpha</item>
+        <item>Izin</item>
+        <item>Sakit</item>
+        <item>Hadir</item>
+    </string-array>
+</resources>
